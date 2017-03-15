@@ -242,14 +242,18 @@ As we can see, the models could perform very well with just a few epochs.
 
 The final step was to run the simulator to see how well the car was driving around the tracks. Both models are capable of finishing track #1 but only my model is capable of finishing track #2 (see videos in the repo or [youtube](http://www.youtube.com/watch?v=QCjtrLyN2-w).
 
-**Click on the images to go to the youtube videos:**
-  
-Second track from the outside
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/QCjtrLyN2-w/0.jpg)](http://www.youtube.com/watch?v=QCjtrLyN2-w "Second track run outside")
+**Click on the images to go to the youtube videos:**  
 
 
-Second track from the car front camera (low res)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/3VOWl3mOm6g/0.jpg)](http://www.youtube.com/watch?v=3VOWl3mOm6g "Second track run outside")
+Second track from the outside  
 
-First track from the car front camera (low res)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QCjtrLyN2-w/0.jpg)](http://www.youtube.com/watch?v=QCjtrLyN2-w "Second track run outside")  
+
+
+Second track from the car front camera (low res)  
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/3VOWl3mOm6g/0.jpg)](http://www.youtube.com/watch?v=3VOWl3mOm6g "Second track run outside")  
+
+First track from the car front camera (low res)  
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/KFUdqSXg424/0.jpg)](http://www.youtube.com/watch?v=KFUdqSXg424 "Second track run outside")
