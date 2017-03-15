@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
 
-<iframe  title="Second track run" width="480" height="390" src="https://youtu.be/QCjtrLyN2-w" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QCjtrLyN2-w/0.jpg)](http://www.youtube.com/watch?v=QCjtrLyN2-w "Second track run outside")
 
 
 
@@ -240,8 +240,8 @@ As we can see, the models could perform very well with just a few epochs.
 
 The final step was to run the simulator to see how well the car was driving around the tracks. Both models are capable of finishing track #1 but only my model is capable of finishing track #2 (see videos in the repo)
 
-<iframe  title="Second track run outside" width="480" height="390" src="https://youtu.be/QCjtrLyN2-w" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QCjtrLyN2-w/0.jpg)](http://www.youtube.com/watch?v=QCjtrLyN2-w "Second track run outside")
 
-<iframe  title="Second track run" width="480" height="390" src="https://youtu.be/3VOWl3mOm6g" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/3VOWl3mOm6g/0.jpg)](http://www.youtube.com/watch?v=3VOWl3mOm6g "Second track run outside")
 
-<iframe  title="First run" width="480" height="390" src="https://youtu.be/KFUdqSXg424" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/KFUdqSXg424/0.jpg)](http://www.youtube.com/watch?v=KFUdqSXg424 "Second track run outside")
