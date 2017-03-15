@@ -41,9 +41,14 @@ My project includes the following files:
 * This writeup_report.md summarizing the results
 
 #### 2. Submission includes functional code
-Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing
+Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the first track by executing
 ```sh
 python drive.py model.h5
+```
+
+and around the second track by executing
+```sh
+python drive_slow.py model.h5
 ```
 
 #### 3. Submission code is usable and readable
